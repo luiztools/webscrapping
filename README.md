@@ -1,12 +1,7 @@
 # webscrapping
-Webscrapping example.
+Webscrapping with Node.js tutorials.
 
-## How to Run
-
-1. git clone
-2. cd webscrapping
-3. npm install
-4. npm start
+Follow instructions in each README file.
 
 ## More
 
